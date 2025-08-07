@@ -1,0 +1,59 @@
+.blog-left{
+    width: 655px;
+}
+
+.blog-section{
+    display: flex;
+    padding: 56px 0px 56px 0px;
+    gap: 79px;
+}
+
+.blog-left h3{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+letter-spacing: 0%;
+color: #12100C;
+
+}
+
+.blog-left p{
+    font-family: Roboto;
+font-weight: 400;
+font-size: 24px;
+line-height: 31.92px;
+letter-spacing: 0%;
+color: #12100CB2;
+}  
+
+.blog-buuton{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0%;
+text-align: center;
+color: #FFAE33;
+border-radius: 10.5px;
+}
+
+.blog-button{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0%;
+text-align: center;
+color: #FFB0AE;
+border-radius: 10.5px;
+}
+
+.blog-left p{
+    padding-bottom: 139px;
+}
+
+.blog-right{
+    box-shadow: 0px 2px 5px 0px #00000014;
+
+}
