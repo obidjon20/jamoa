@@ -1,0 +1,71 @@
+footer {
+  background: #f9f9f9;
+}
+.foot {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 171px;
+  margin-left: 300px;
+  margin-right: 294px;
+}
+.foot h3 {
+  text-align: start;
+}
+ul {
+  list-style-type: none;
+  text-align: start;
+}
+ul a {
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 19.5px;
+  letter-spacing: 0%;
+  color: #12100cb2;
+}
+.line {
+  margin-left: 294px;
+}
+.feed {
+  padding-bottom: 35px;
+}
+.log {
+  margin-left: 294px;
+  padding-top: 35px;
+}
+.twitter {
+  margin-left: 900px;
+}
+.github {
+  margin-left: 16px;
+}
+.massage {
+  margin-left: 16px;
+}
+.streed {
+  background: #ece7e5;
+  display: flex;
+}
+.cookie-btn {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  background: #f9f9f9;
+  border: none;
+  border-radius: 20px;
+  padding: 0px 24px 0px 24px;
+}
+.streed h6 {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  color: #12100cb2;
+  margin-right: 548px;
+}
